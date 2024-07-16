@@ -1,0 +1,5 @@
+Hello, I'm thread 0
+Hello, I'm thread 1
+Hello, I'm thread 2
+Hello, I'm thread 3
+Main cleans up
