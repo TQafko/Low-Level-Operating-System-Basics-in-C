@@ -1,0 +1,2 @@
+USAGE:
+  parta_main CMD CMD_ARGS

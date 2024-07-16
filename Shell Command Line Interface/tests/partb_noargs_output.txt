@@ -1,0 +1,2 @@
+USAGE:
+  partb_main CMD1 CMD1_ARGS [: CMD2 CMD2_ARGS]
