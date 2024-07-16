@@ -1,0 +1,4 @@
+Using FCFS
+
+Accepted P0: Burst 5
+Average wait time: 0.00
